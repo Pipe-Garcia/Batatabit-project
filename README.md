@@ -18,6 +18,7 @@ This website seems like an ideal destination to stay up to date on the ever-chan
   <ul>
    <li>HTML</li> 
    <li>CSS</li>
+   <li>Figma</li>
   </ul>
 
 <h2>Getting Started</h2>
